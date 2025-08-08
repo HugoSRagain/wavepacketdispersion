@@ -16,9 +16,9 @@ This animation shows how the dispersion of an economic wave packet evolves over 
 |------------------|------------------|-------------------|
 | Quasi-classical behavior | Mesoscopic transitions | Strong quantum-like dispersion |
 
-![Wave Packet Dispersion](media/wavepacket_dispersion.gif)
+![Wave Packet Dispersion](root/wavepacket_dispersion.gif)
 
-> 📁 File: [`media/wavepacket_dispersion.gif`](media/wavepacket_dispersion.gif)
+> 📁 File: [`media/wavepacket_dispersion.gif`](root/wavepacket_dispersion.gif)
 
 ---
 
